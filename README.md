@@ -21,4 +21,6 @@ Full-stack Web3 platform where properties are fractionalized into tokens on Ethe
 
 ## 📫 Contact
 
+- **LinkedIn:** https://www.linkedin.com/in/david-solórzano-zayas-612984201/
+
 Open to remote opportunities in Web3 and Full Stack development.
