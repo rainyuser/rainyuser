@@ -16,7 +16,7 @@ Full-stack Web3 platform where properties are fractionalized into tokens on Ethe
 
 - **Live demo:** https://prisma-futura.com
 - **Frontend repo:** https://github.com/rainyuser/prisma-futura-real-state
-- **Contract repo:** https://github.com/rainyuser/realestate-contract
+- **Contract repo:** [https://github.com/rainyuser/realestate-contract](https://github.com/rainyuser/realstate-contract)
 - **Contract on Sepolia:** `0x6ba2c572dC2FC96DeA80827c4e893c26ea4b4CB0`
 
 ## 📫 Contact
